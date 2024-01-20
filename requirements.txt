@@ -1,0 +1,4 @@
+deepface
+tkinter
+matplotlib
+pickle5
